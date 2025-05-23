@@ -2,7 +2,16 @@
 Proyectos trabajados en code academy
 
 
-Primer proyeto
+Primer Proyeto
 ============== 
 
-*html, css (Wine Festival Schedule)
+- html (Wine Festival Schedule)
+- css
+- Uso de tablas <table>
+
+Segundo Proyecto
+================
+
+- html
+- css
+- uso de semantica html para formar el blog
