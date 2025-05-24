@@ -57,3 +57,10 @@ Octavo Ejercicio
 - html (Paint Store)
 - css
 - Propiedades de color con css, hsl, rgb, rgba, hsla
+
+Noveno Ejercicio
+================
+
+- html (Typography)
+- css
+- Conceptos basicos de fuentes de estilo descargadas y importadas por links
