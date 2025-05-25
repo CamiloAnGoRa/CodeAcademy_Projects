@@ -64,3 +64,22 @@ Noveno Ejercicio
 - html (Typography)
 - css
 - Conceptos basicos de fuentes de estilo descargadas y importadas por links
+
+Decimo Ejercicio
+================
+
+- html (The Summit)
+- css
+- Propiedades de decoraciones hover, active, shadow
+
+Onceavo Proyecto
+===============
+- html(Breadcrumb Styles)
+- css 
+- Navegacion por modelo de migas de pan basado en ubicacion atributo y rutas 
+
+Doceavo Proyecto
+================
+-html (FreshDeals_Blueberries)
+-css 
+- Modelo migas de pan multiples archivos, css

@@ -1,0 +1,14 @@
+.breadcrumb > li{
+    display: inline;
+}
+.breadcrumb li+li::before{
+    content: ">";
+}
+
+.breadcrumb li.location+li.attribute::before{
+    content: "";
+}
+
+.location li::after{
+    color: gray;
+}
