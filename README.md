@@ -83,3 +83,9 @@ Doceavo Proyecto
 -html (FreshDeals_Blueberries)
 -css 
 - Modelo migas de pan multiples archivos, css
+
+Treceavo Proyecto
+=================
+- html (Journey Around the World)
+- css
+- Conceptos de colores dominantes y de apoyo en una pagina web
