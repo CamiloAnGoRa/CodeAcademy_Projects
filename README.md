@@ -119,3 +119,9 @@ Proyecto 18
 - html (Flexbox_To_Do_App)
 - css
 - Porpiedades de flexbox aplicadas para la visualizacion de una pagina de tareas
+
+Proyecto 19
+===========
+- html (off-platform project_Tea Cozy)
+- css
+- Proyecto landing page tea cozy, flexbox y posicion de imagenes con algunas propiedades extra de css
