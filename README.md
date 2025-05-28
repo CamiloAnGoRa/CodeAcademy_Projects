@@ -2,96 +2,120 @@
 Proyectos trabajados en code academy
 
 
-Primer Proyeto
+Proyeto 1
 ============== 
 
 - html (Wine Festival Schedule)
 - css
 - Uso de tablas <table>
 
-Segundo Proyecto
+Proyecto 2
 ================
 
 - html (New York City Blog)
 - css
 - uso de semantica html para formar el blog
 
-Tercer Ejercicio
+Proyecto 3
 ================
 
 - html (Healthy Recipes)
 - css
 - Recusos basicos de CSS
 
-Cuarto Ejercicio
+Proyecto 4
 ================
 
 - html (Olivia Woodruff Portafolio)
 - css
 - Recursos basicos CSS
 
-Quinto Ejercicio
+Proyecto 5
 ================
 
 - html  (The Box Model_Davie´s Burger)
 - css
 - Modelo de caja Davie´s Burger
 
-Sexto Ejercicio
+Proyecto 6
 ===============
 
 - html (Questionary)
 - css
 - Modelo de caja 
 
-Septimo Ejercicio
+Proyecto 7
 =================
 
 - html (Broadway)
 - css
 - Propiedades display, z-index, position
 
-Octavo Ejercicio
+Proyecto 8
 ================
 
 - html (Paint Store)
 - css
 - Propiedades de color con css, hsl, rgb, rgba, hsla
 
-Noveno Ejercicio
+Proyecto 9
 ================
 
 - html (Typography)
 - css
 - Conceptos basicos de fuentes de estilo descargadas y importadas por links
 
-Decimo Ejercicio
+Proyecto 10
 ================
 
 - html (The Summit)
 - css
 - Propiedades de decoraciones hover, active, shadow
 
-Onceavo Proyecto
+Proyecto 11
 ===============
 - html(Breadcrumb Styles)
 - css 
 - Navegacion por modelo de migas de pan basado en ubicacion atributo y rutas 
 
-Doceavo Proyecto
+Proyecto 12
 ================
 -html (FreshDeals_Blueberries)
 -css 
 - Modelo migas de pan multiples archivos, css
 
-Treceavo Proyecto
+Proyecto 13
 =================
 - html (Journey Around the World)
 - css
 - Conceptos de colores dominantes y de apoyo en una pagina web
 
-Catorceavo Proyecto
+Proyecto 14
 ===================
 - html (Formulario)
 - css
 - Contrastes de colores, semantica de colores, valores y tonalidades
+
+Proyecto 15
+==================
+- html (E-commerce)
+- css
+- Proyecto de colores, contrastes de colores segun marca
+
+Proyecto 16
+=====================
+- html (Reel Good Reviews)
+- css 
+- Ordenamiento visual reseñas de peliculas, colores y contrastes
+
+Proyecto 17
+===========
+- html (flexbox)
+- css
+- Usos basicos de flexbox y propiedades
+
+Proyecto 18
+===========
+- html (Flexbox_To_Do_App)
+- css
+- Porpiedades de flexbox aplicadas para la visualizacion de una pagina de tareas
