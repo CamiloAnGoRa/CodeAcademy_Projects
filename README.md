@@ -131,3 +131,9 @@ Proyecto 20
 - html (PupSpa)
 - css 
 - Grid vista basica plataforma para mascotas
+
+Proyecto 21
+===========
+- html (CSS Grid_Task Board)
+- css 
+- Tabla de proyectos con grid html css conocimiento de cuadriculas
