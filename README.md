@@ -125,3 +125,9 @@ Proyecto 19
 - html (off-platform project_Tea Cozy)
 - css
 - Proyecto landing page tea cozy, flexbox y posicion de imagenes con algunas propiedades extra de css
+
+Proyecto 20
+===========
+- html (PupSpa)
+- css 
+- Grid vista basica plataforma para mascotas
